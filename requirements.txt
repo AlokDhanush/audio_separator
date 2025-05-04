@@ -1,6 +1,5 @@
-streamlit
+streamlit==1.32.2
 spleeter==2.3.2
 tensorflow==2.5.0
 pydub
 ffmpeg-python
-
