@@ -1,5 +1,4 @@
-streamlit==1.25.0
-spleeter==2.3.0
-tensorflow==2.5.0
-pydub
-ffmpeg-python
+streamlit==1.32.2
+spleeter==2.1.0
+pydub==0.25.1
+ffmpeg-python==0.2.0
